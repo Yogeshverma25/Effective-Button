@@ -1,3 +1,42 @@
 # Interactive UI Button project (GitHub)
 
-There are three effective button which is attached with some websit link. Those are made up by HTML and CSS.
+# 🚀 Interactive UI Button System
+
+A modern and responsive button UI project built using HTML, CSS, and JavaScript. This project demonstrates interactive design elements and smooth animations to enhance user experience.
+
+---
+
+## ✨ Features
+- Responsive button design
+- Smooth hover and click animations
+- Clean and minimal UI
+- Reusable components
+
+---
+
+## 🛠️ Tech Stack
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 📸 Screenshots
+(Add screenshots of your project here)
+
+---
+
+## 🚀 Live Demo
+(Add your deployed link here - GitHub Pages / Netlify)
+
+---
+
+## 📂 GitHub Repository
+https://github.com/Yogeshverma25/Effective-Button.git
+
+---
+
+## 👨‍💻 Author
+Yogesh Verma  
+- GitHub: https://github.com/Yogeshverma25  
+- LinkedIn: https://www.linkedin.com/in/yogesh-verma-341aa5302
