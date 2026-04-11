@@ -22,12 +22,6 @@ A modern and responsive button UI project built using HTML, CSS, and JavaScript.
 ## 🛠️ Tech Stack
 - HTML
 - CSS
-- JavaScript
-
----
-
-## 🚀 Live Demo
-(Add your deployed link here - GitHub Pages / Netlify)
 
 ---
 
